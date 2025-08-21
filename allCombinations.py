@@ -1,3 +1,6 @@
+'''
+pega a lista de palavras possíveis e comuns e testa todas as combinações possíveis destas
+'''
 from collections import Counter
 
 
