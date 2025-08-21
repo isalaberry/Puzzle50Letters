@@ -1,0 +1,3 @@
+git rm --cached allpossible.txt
+git rm --cached mostcommompossible.txt
+git rm --cached RESULTADO.txt
